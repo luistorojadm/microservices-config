@@ -1,5 +1,5 @@
 server:
-  port:${app.eureka-port}
+  port: ${app.eureka-port}
 
 eureka:
   instance:
